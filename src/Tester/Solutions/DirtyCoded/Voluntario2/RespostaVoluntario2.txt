@@ -1,0 +1,31 @@
+1. A facilidade de LEITURA do código que recebeu foi:
+	(x) Péssima
+	( ) Boa
+	( ) Excelente
+
+2. A facilidade para adicionar a nova funcionalidade no código que recebeu foi:
+	(x) Péssima (trabalhosa, complicada)
+	( ) Boa (normal)
+	( ) Excelente (muito fácil)
+	
+3. Você se sente mais seguro alterando um código coberto por testes?
+	(x) Sim
+	( ) Não
+
+4. Você achou que os nomes das classes, métodos e variaveis estavam:
+	( ) Demonstrando claramente os seus própositos
+	( ) Ambíguos
+	( ) Sem sentido
+	(x) Aceitáveis
+
+5. Você achou que os comentários no código ajudaram na manutenção?
+	( ) Sim
+	( ) Não
+	(x) Não me antentei para comentários
+
+6. Em média, você achou o tamanho das classes e métodos:
+	( ) Extensos
+	(x) Médios
+	( ) Pequenos
+
+	TEMPO: 25min

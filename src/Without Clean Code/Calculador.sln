@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculador", "Calculador\Calculador.csproj", "{CC232B7E-6CE5-4F13-AA47-BFCC180D9DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "..\Tester\Interfaces\Interfaces.csproj", "{FF0B5BB2-B79F-4C15-A858-84D887733181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC232B7E-6CE5-4F13-AA47-BFCC180D9DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC232B7E-6CE5-4F13-AA47-BFCC180D9DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC232B7E-6CE5-4F13-AA47-BFCC180D9DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC232B7E-6CE5-4F13-AA47-BFCC180D9DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF0B5BB2-B79F-4C15-A858-84D887733181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0B5BB2-B79F-4C15-A858-84D887733181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0B5BB2-B79F-4C15-A858-84D887733181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0B5BB2-B79F-4C15-A858-84D887733181}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
